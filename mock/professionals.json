@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "nome": "Dra. Ana Oliveira",
+    "nome": "Dra. Paula Pereira",
     "latitude": -8.122352,
     "longitude": -34.900973,
     "especialidade": "Ansiedade e Depressão",
@@ -10,7 +10,7 @@
   },
   {
     "id": "2",
-    "nome": "Dr. José Santos",
+    "nome": "Dr. Felipe Canto",
     "latitude": -8.057817,
     "longitude": -34.919691,
     "especialidade": "Terapia Familiar",
@@ -19,7 +19,7 @@
   },
   {
     "id": "3",
-    "nome": "Dra. Maria Fernandes",
+    "nome": "Dra. Clara Feijó",
     "latitude": -8.059817,
     "longitude": -34.989691,
     "especialidade": "Stress e Burnout",
@@ -28,7 +28,7 @@
   },
   {
     "id": "4",
-    "nome": "Dr. João Costa",
+    "nome": "Dr. Junior Silva",
     "latitude": -8.052870,
     "longitude": -34.897637,
     "especialidade": "Transtornos de Personalidade",
@@ -37,7 +37,7 @@
   },
   {
     "id": "5",
-    "nome": "Dra. Ana Lima",
+    "nome": "Dra. Fabiana Lima",
     "latitude": -8.126544,
     "longitude": -34.901128,
     "especialidade": "Dependência Química",
